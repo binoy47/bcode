@@ -26,7 +26,7 @@ for i in range(3):
     print('.', flush=True, end='')
 print("\n\n")
 spaces = 40
-word = input("\033[96m[?] Enter the sentence that you want to design \033[91m(Example: Happy Birthday) \033[93m:")
+word = input("\033[96m[?] Enter the sentence that you want to design \033[91m(Example: I Love SADIYA) \033[93m:")
 print(" ")
 text = word.split()
 
